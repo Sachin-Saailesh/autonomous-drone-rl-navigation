@@ -1,7 +1,4 @@
-# 7. Autonomous Drone RL Navigation
-
-**Repository:** `autonomous-drone-rl-navigation`
-**Original:** Reinforcement-Learning-Autonomous-Drone-Delivery
+# Autonomous Drone RL Navigation
 
 ## 🎯 Strategic Tagline
 Deep reinforcement learning agent for autonomous drone navigation and delivery using Deep Q-Networks (DQN) with prioritized experience replay and obstacle avoidance.
